@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8047d607-b05e-4a05-895c-94f011f1c5f5" name="Default Changelist" comment="" />
+    <list default="true" id="8047d607-b05e-4a05-895c-94f011f1c5f5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/JavaGames/Crispen_Gari/com/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaGames/Crispen_Gari/com/Readme.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1j0EFxg6vpE9NKgJiomPTEty9Yy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -50,5 +56,16 @@
       <updated>1602932508798</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
